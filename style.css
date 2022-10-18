@@ -1,0 +1,55 @@
+.wrapper{
+    background-color: #E9ECEF;
+}
+
+img{
+    border-radius: 50%;
+    height: 45px;
+    width: 42px;
+}
+
+.isim{
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.post{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.post-resim{
+    border-radius: 0;
+    height: 350px;
+    width: 516px;
+}
+
+i{
+    font-size: 20px;
+}
+
+.begen{
+    height: 25px;
+    width: 25px;
+}
+
+
+
+.yorum-paylas{
+  background-color:rgba(135, 135, 135, 0.361);
+    height: 30px;
+    width: auto;
+}
+
+.row ul li{
+    list-style-type: none;
+}
+
+.oneri{
+    height: 35px;
+    width: 35px;
+}
+
+.col-sm-6 a{
+    font-weight: 500;
+}
